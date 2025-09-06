@@ -54,10 +54,3 @@ Built on **ESP32 + RFID + LCD + Google Sheets**, with **offline logging, live pe
 ![Circuit Diagram](docs/circuit-diagram.png)  
 
 ---
-
-## ⚡ Getting Started
-
-### 1. Clone Repo
-```bash
-git clone https://github.com/<your-username>/ESP32-RFID-Attendance.git
-cd ESP32-RFID-Attendance
