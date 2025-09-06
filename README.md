@@ -28,7 +28,7 @@ Built on **ESP32 + RFID + LCD + Google Sheets**, with **offline logging, live pe
 - **Hardware** → ESP32, MFRC522 RFID, 16x2 LCD ![Arduino](https://img.shields.io/badge/framework-Arduino-green) ![ESP32](https://img.shields.io/badge/hardware-ESP32-orange)  
 - **Integration** → Google Apps Script + Sheets ![Google Sheets](https://img.shields.io/badge/integration-Google%20Sheets-yellow)  
 - **Libraries** → WiFi, HTTPClient, MFRC522, LiquidCrystal_I2C, NTPClient, Preferences
-- **RFID Card** → MIFARE Classic 1K, 13.56 MHz, 1KB memory - **RFID Card** → MIFARE Classic 1K, 13.56 MHz ![RFID](https://img.shields.io/badge/type-MIFARE%20Classic%201K-blueviolet)
+- **RFID Card** → MIFARE Classic 1K, 13.56 MHz, 1KB memory ![RFID](https://img.shields.io/badge/type-MIFARE%20Classic%201K-blueviolet)
  
 
 ---
