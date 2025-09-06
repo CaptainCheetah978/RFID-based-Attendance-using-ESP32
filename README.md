@@ -24,9 +24,9 @@ Built on **ESP32 + RFID + LCD + Google Sheets**, with **offline logging, live pe
 ---
 ## 🖥️ Tech Stack
 - **Language** → C++ (Arduino IDE) ![C++](https://img.shields.io/badge/code-C++-blue)
-- **Hardware** → ESP32, MFRC522 RFID, 16x2 LCD ![Arduino](https://img.shields.io/badge/framework-Arduino-green)
-- **Integration** → Google Apps Script + Sheets ![ESP32](https://img.shields.io/badge/hardware-ESP32-orange)
-- **Libraries** → WiFi, HTTPClient, MFRC522, LiquidCrystal_I2C, NTPClient, Preferences![Google Sheets](https://img.shields.io/badge/integration-Google%20Sheets-yellow)
+- **Hardware** → ESP32, MFRC522 RFID, 16x2 LCD ![Arduino](https://img.shields.io/badge/framework-Arduino-green) ![ESP32](https://img.shields.io/badge/hardware-ESP32-orange)
+- **Integration** → Google Apps Script + Sheets  ![Google Sheets](https://img.shields.io/badge/integration-Google%20Sheets-yellow)
+- **Libraries** → WiFi, HTTPClient, MFRC522, LiquidCrystal_I2C, NTPClient, Preferences
 
 ---
 ## ✅ Pros
