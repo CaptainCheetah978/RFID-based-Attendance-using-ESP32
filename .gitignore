@@ -1,0 +1,23 @@
+# Arduino/IDE artefacts
+*.bin
+*.elf
+*.hex
+*.o
+*.d
+
+# Arduino builds
+*.ino.cpp
+*.ino.d
+*.ino.elf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.pio/
+
+# Secrets
+include/secrets.h
+secrets.h
